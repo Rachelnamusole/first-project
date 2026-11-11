@@ -40,7 +40,7 @@ expenses = load_expenses()
 
 while True:
     print("\n===== PERSONAL EXPENSE TRACKER =====")
-    print("1. Add a new expense")
+    print("1. Add expense")
     print("2. View all expenses")
     print("3. View spending by category")
     print("4. View monthly summary")
